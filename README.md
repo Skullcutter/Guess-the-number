@@ -10,8 +10,6 @@ Welcome to the Guess the Number game! This interactive web application challenge
   
 - **User-Friendly Interface:** Designed with a clean layout and easy-to-read fonts for an enjoyable user experience.
   
-- **Responsive Design:** The game adapts to different screen sizes, ensuring accessibility on various devices.
-  
 # Learning Outcomes
 **By engaging with this project, users will:**
 
