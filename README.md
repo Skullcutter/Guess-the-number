@@ -35,7 +35,7 @@ Welcome to the Guess the Number game! This interactive web application challenge
     cd guess-the-number
     ```
 
-3. Open **index.html** in yor preferred browser.
+3. Open **index.html** in your preferred browser.
 
 4. Or else simply download this repository to your local machine.
 
